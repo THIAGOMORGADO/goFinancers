@@ -7,3 +7,9 @@ GoFinancers
 ### Initial Projet Dashboard page  --ok
 
 ## Page Registe in progress
+
+----------
+
+**Autor**
+
+#### Thiago morgado
